@@ -1,3 +1,5 @@
+package primerosPasosJava;
+
 public class bucles {
     public static void main(String[] args) {
         for (int fila = 0; fila < 10; fila++) {

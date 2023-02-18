@@ -1,3 +1,5 @@
+package primerosPasosJava;
+
 public class factorial {
     public static void main(String[] args) {
         int factory = 1;

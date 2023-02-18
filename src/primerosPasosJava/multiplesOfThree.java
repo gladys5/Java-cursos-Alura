@@ -1,3 +1,5 @@
+package primerosPasosJava;
+
 public class multiplesOfThree {
 
     public static void main(String[] args) {
