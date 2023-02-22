@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f82ada3-794e-4f83-b0f7-31af677893d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/OrientacionAObjetos/Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OrientacionAObjetos/otherCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrientacionAObjetos/TestMetodos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrientacionAObjetos/paradigmaPoo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrientacionAObjetos/Cuenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacionAObjetos/Cuenta.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
