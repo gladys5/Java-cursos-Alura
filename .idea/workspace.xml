@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f82ada3-794e-4f83-b0f7-31af677893d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/OrientacionAObjetos/TestMetodos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrientacionAObjetos/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrientacionAObjetos/TestCuentaConCliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrientacionAObjetos/TestCuentaSinCliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrientacionAObjetos/TestGetSet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrientacionAObjetos/CrearCuenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacionAObjetos/CrearCuenta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/OrientacionAObjetos/Cuenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacionAObjetos/Cuenta.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
