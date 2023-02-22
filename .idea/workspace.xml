@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f82ada3-794e-4f83-b0f7-31af677893d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/OrientacionAObjetos/paradigmaPoo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primerosPasosJava/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bucles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primerosPasosJava/bucles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primerosPasosJava/factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multiplesOfThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primerosPasosJava/multiplesOfThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrientacionAObjetos/Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrientacionAObjetos/otherCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrientacionAObjetos/paradigmaPoo.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +38,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
