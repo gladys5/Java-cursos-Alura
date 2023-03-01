@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f82ada3-794e-4f83-b0f7-31af677893d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/OrientacionAObjetos/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OrientacionAObjetos/TestCuentaConCliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OrientacionAObjetos/TestCuentaSinCliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OrientacionAObjetos/TestGetSet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrientacionAObjetos/CrearCuenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacionAObjetos/CrearCuenta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrientacionAObjetos/Cuenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrientacionAObjetos/Cuenta.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,14 +31,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "editor.preferences.tabs"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
